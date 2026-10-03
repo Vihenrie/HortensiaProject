@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#FAF7F2"/>
+  <g transform="translate(4, 4)">
+    <!-- Center circle -->
+    <circle cx="12" cy="12" r="2.5" fill="#D4A373"/>
+    <!-- Petals (hydrangea style) -->
+    <ellipse cx="12" cy="6" rx="2.2" ry="3.5" fill="#9B8EA9" opacity="0.8" transform="rotate(0 12 12)"/>
+    <ellipse cx="12" cy="6" rx="2.2" ry="3.5" fill="#9B8EA9" opacity="0.8" transform="rotate(60 12 12)"/>
+    <ellipse cx="12" cy="6" rx="2.2" ry="3.5" fill="#9B8EA9" opacity="0.8" transform="rotate(120 12 12)"/>
+    <ellipse cx="12" cy="6" rx="2.2" ry="3.5" fill="#9B8EA9" opacity="0.7" transform="rotate(180 12 12)"/>
+    <ellipse cx="12" cy="6" rx="2.2" ry="3.5" fill="#9B8EA9" opacity="0.7" transform="rotate(240 12 12)"/>
+    <ellipse cx="12" cy="6" rx="2.2" ry="3.5" fill="#9B8EA9" opacity="0.7" transform="rotate(300 12 12)"/>
+    <circle cx="12" cy="12" r="2" fill="#D4A373"/>
+  </g>
+</svg>
